@@ -17,7 +17,7 @@
     color: var(--secound-color);
     line-height: 28px;
 }
-.portfolio-content{
+.projetos-content{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 2rem;
